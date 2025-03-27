@@ -2,9 +2,6 @@
 
 * This repository is for assignments
 
-* Assignment 3
-  [GA3_idea.pdf](https://github.com/user-attachments/files/19477409/GA3_idea.pdf)
-
 
 * Assignment 4
   ![GA4_Basic Concept](https://github.com/user-attachments/assets/2923b7a3-ab69-41d5-ae04-4e92b49626a8)
